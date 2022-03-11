@@ -1,6 +1,6 @@
 {
   "name": "Spaceship",
-  "start_url": "sedan.glb",
+  "start_url": "untitled.glb",
   "components": [
     {
       "key": "sit",
